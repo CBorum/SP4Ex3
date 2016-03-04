@@ -1,0 +1,31 @@
+.opg2 {
+    height: 100px; 
+    width: 100px; 
+    display: inline-block
+}
+#container{
+    width: 226px;
+    height: 274px;
+    border: 3px solid blue;
+    margin: auto
+}
+.t1, .t4{
+    border: 1px solid black;
+    height: 48px;
+    margin-left: 3px;
+    margin-top: 3px;
+    display: inline-block;
+    text-align: center;
+    line-height: 48px;
+}
+.t1{
+    width: 48px;
+}
+.t4{
+    width: 219px;
+}
+.abc {
+    height: 100px; 
+    width: 100px; 
+    display: inline-block
+}
